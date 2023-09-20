@@ -1,3 +1,5 @@
+<h1>**ARCHIVED**</h1>
+
 # AMP-AD Metadata Dictionary
 
 Hosts the dictionary used for metadata in AMP-AD, which is composed of the
